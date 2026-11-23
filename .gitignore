@@ -1,0 +1,16 @@
+
+# R temporary files
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+
+# RStudio settings
+.Rproj.user/
+
+# R package build files
+*.Rcheck/
+*.tar.gz
+
+# Local backup folders
+m6APrediction_backup_checked/
